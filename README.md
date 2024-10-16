@@ -61,10 +61,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/lo-van-bang-389698289/" target="blank">
+  <a href="https://www.linkedin.com/in/lo-van-bang-389698289/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="lovanbang-linkedin" />
   </a>
-  <a href="https://www.instagram.com/lovanbang.ng/" target="blank">
+  <a href="https://www.instagram.com/lovanbang.ng/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="lovanbang-instagram" />
   </a>
   <a href="mailto:lovanbangbox9@gmail.com" target="top">
